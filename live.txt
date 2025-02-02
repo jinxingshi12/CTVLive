@@ -2,7 +2,7 @@
 雷蒙影视直播,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CTVThemeSong1.mp4
 CrimeTV LIVE,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CTVThemeSong2.mp4
 更新日期,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV1.mkv
-2025-02-02,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV2.mkv
+2025-02-03,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV2.mkv
 🇭🇰香港,#genre#
 凤凰中文,http://171.213.130.23:8088/udp/239.93.0.162:2192$雷蒙影视•IPV4『线路1』
 凤凰中文,http://171.213.130.23:8088/udp/239.93.1.9:2192$雷蒙影视•IPV4『线路2』
@@ -15,32 +15,32 @@ CrimeTV LIVE,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3R
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw$雷蒙影视•IPV4『线路9』
 凤凰中文,http://oopswx.serv00.net/fhws.php?id=cn$雷蒙影视•IPV4『线路10』
 凤凰中文,http://oopswx.serv00.net/fhxyh.php?from=web&id=fhzw$雷蒙影视•IPV4『线路11』
-凤凰中文,http://qjrhc.jydjd.top:2911/udp/224.1.100.3:11111$雷蒙影视•IPV4『线路12』
-凤凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8$雷蒙影视•IPV4『线路13』
+凤凰中文,http://wouu.net:9977/udp/239.93.0.162:2192$雷蒙影视•IPV4『线路12』
+凤凰中文,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8654&tk=e503191f8e20$雷蒙影视•IPV4『线路13』
 凤凰中文,http://www.terrykang.cn:5678/sxg.php?id=test1_4000$雷蒙影视•IPV4『线路14』
-凤凰中文,http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?$雷蒙影视•IPV4『线路15』
-凤凰中文,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5892&tk=777be9e2ccb2$雷蒙影视•IPV4『线路16』
-凤凰中文,http://dms.yryyj.site:8188/udp/239.76.246.135:1234$雷蒙影视•IPV4『线路17』
-凤凰中文,http://wouu.net:9977/rtp/239.93.0.162:2192?Cf=cfss.cc$雷蒙影视•IPV4『线路18』
-凤凰中文,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0311&tk=777be9e2ccb2$雷蒙影视•IPV4『线路19』
-凤凰中文,http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?$雷蒙影视•IPV4『线路20』
-凤凰中文,http://cdn.132.us.kg/live/fhzw/stream.m3u8$雷蒙影视•IPV4『线路21』
-凤凰中文,http://wouu.net:9977/udp/239.93.0.162:2192$雷蒙影视•IPV4『线路22』
-凤凰中文,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8654&tk=e503191f8e20$雷蒙影视•IPV4『线路23』
-凤凰中文,http://www.erbao1981.top:8188/udp/239.76.246.135:1234$雷蒙影视•IPV4『线路24』
+凤凰中文,http://www.erbao1981.top:8188/udp/239.76.246.135:1234$雷蒙影视•IPV4『线路15』
+凤凰中文,http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?$雷蒙影视•IPV4『线路16』
+凤凰中文,http://cdn.132.us.kg/live/fhzw/stream.m3u8$雷蒙影视•IPV4『线路17』
+凤凰中文,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0311&tk=777be9e2ccb2$雷蒙影视•IPV4『线路18』
+凤凰中文,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5892&tk=777be9e2ccb2$雷蒙影视•IPV4『线路19』
+凤凰中文,http://qjrhc.jydjd.top:2911/udp/224.1.100.3:11111$雷蒙影视•IPV4『线路20』
+凤凰中文,http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?$雷蒙影视•IPV4『线路21』
+凤凰中文,http://wouu.net:9977/rtp/239.93.0.162:2192?Cf=cfss.cc$雷蒙影视•IPV4『线路22』
+凤凰中文,http://dms.yryyj.site:8188/udp/239.76.246.135:1234$雷蒙影视•IPV4『线路23』
+凤凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8$雷蒙影视•IPV4『线路24』
 凤凰中文,http://kxrj.site:1333/86/fh.php?id=fhzw$雷蒙影视•IPV4『线路25』
 凤凰中文,http://211.72.65.236:8577/.m3u8$雷蒙影视•IPV4『线路26』
 凤凰中文,http://8.138.7.223/tv/gdmzyd.php?id=4$雷蒙影视•IPV4『线路27』
 凤凰中文,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236260/index.m3u8$雷蒙影视•IPV4『线路28』
 凤凰中文,http://121.205.69.190:8848/rtp/239.61.2.184:9092$雷蒙影视•IPV4『线路29』
-凤凰中文,http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?key=txiptv&playlive=1&authid=0$雷蒙影视•IPV4『线路30』
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw$雷蒙影视•IPV4『线路31』
-凤凰中文,http://xubo0712.asuscomm.cn:9999/rtp/239.93.0.162:2192$雷蒙影视•IPV4『线路32』
-凤凰中文,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pcc72.m3u8$雷蒙影视•IPV4『线路33』
-凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8$雷蒙影视•IPV4『线路34』
-凤凰中文,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8$雷蒙影视•IPV4『线路35』
-凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8$雷蒙影视•IPV4『线路36』
-凤凰中文,http://r.jdshipin.com/cCCzW$雷蒙影视•IPV4『线路37』
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw$雷蒙影视•IPV4『线路30』
+凤凰中文,http://xubo0712.asuscomm.cn:9999/rtp/239.93.0.162:2192$雷蒙影视•IPV4『线路31』
+凤凰中文,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pcc72.m3u8$雷蒙影视•IPV4『线路32』
+凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8$雷蒙影视•IPV4『线路33』
+凤凰中文,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8$雷蒙影视•IPV4『线路34』
+凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8$雷蒙影视•IPV4『线路35』
+凤凰中文,http://r.jdshipin.com/cCCzW$雷蒙影视•IPV4『线路36』
+凤凰中文,http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?key=txiptv&playlive=1&authid=0$雷蒙影视•IPV4『线路37』
 凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8$雷蒙影视•IPV4『线路38』
 凤凰中文,http://117.27.190.42:9998/tsfile/live/23280_1.m3u8$雷蒙影视•IPV4『线路39』
 凤凰中文,http://yujukoo.gicp.net:8888/udp/239.93.0.162:2192$雷蒙影视•IPV4『线路40』
@@ -106,35 +106,35 @@ CrimeTV LIVE,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3R
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx$雷蒙影视•IPV4『线路9』
 凤凰资讯,http://oopswx.serv00.net/fhws.php?id=info$雷蒙影视•IPV4『线路10』
 凤凰资讯,http://oopswx.serv00.net/fhxyh.php?from=web&id=fhzx$雷蒙影视•IPV4『线路11』
-凤凰资讯,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5282&tk=2aca1ad9a849$雷蒙影视•IPV4『线路12』
-凤凰资讯,http://dms.yryyj.site:8188/udp/239.76.253.134:9000$雷蒙影视•IPV4『线路13』
-凤凰资讯,http://wouu.net:9977/rtp/239.93.0.118:2191?Cf=cfss.cc$雷蒙影视•IPV4『线路14』
-凤凰资讯,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1581&tk=e503191f8e20$雷蒙影视•IPV4『线路15』
-凤凰资讯,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5112&tk=777be9e2ccb2$雷蒙影视•IPV4『线路16』
-凤凰资讯,https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8$雷蒙影视•IPV4『线路17』
-凤凰资讯,http://www.terrykang.cn:5678/sxg.php?id=test2_4000$雷蒙影视•IPV4『线路18』
-凤凰资讯,http://dms.yryyj.site:8188/udp/239.76.246.134:1234$雷蒙影视•IPV4『线路19』
-凤凰资讯,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4910&tk=777be9e2ccb2$雷蒙影视•IPV4『线路20』
+凤凰资讯,http://wouu.net:9977/rtp/239.93.0.118:2191?Cf=cfss.cc$雷蒙影视•IPV4『线路12』
+凤凰资讯,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5282&tk=2aca1ad9a849$雷蒙影视•IPV4『线路13』
+凤凰资讯,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4910&tk=777be9e2ccb2$雷蒙影视•IPV4『线路14』
+凤凰资讯,https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8$雷蒙影视•IPV4『线路15』
+凤凰资讯,http://dms.yryyj.site:8188/udp/239.76.253.134:9000$雷蒙影视•IPV4『线路16』
+凤凰资讯,http://wouu.net:9977/udp/239.93.1.4:2191$雷蒙影视•IPV4『线路17』
+凤凰资讯,http://dms.yryyj.site:8188/udp/239.76.246.134:1234$雷蒙影视•IPV4『线路18』
+凤凰资讯,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1581&tk=e503191f8e20$雷蒙影视•IPV4『线路19』
+凤凰资讯,http://www.terrykang.cn:5678/sxg.php?id=test2_4000$雷蒙影视•IPV4『线路20』
 凤凰资讯,http://wouu.net:9977/udp/239.93.0.118:2191$雷蒙影视•IPV4『线路21』
-凤凰资讯,http://wouu.net:9977/udp/239.93.1.4:2191$雷蒙影视•IPV4『线路22』
+凤凰资讯,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5112&tk=777be9e2ccb2$雷蒙影视•IPV4『线路22』
 凤凰资讯,http://kxrj.site:1333/86/fh.php?id=fhzx$雷蒙影视•IPV4『线路23』
 凤凰资讯,http://211.72.65.236:8576/.m3u8$雷蒙影视•IPV4『线路24』
 凤凰资讯,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236197/index.m3u8$雷蒙影视•IPV4『线路25』
 凤凰资讯,http://121.205.69.190:8848/rtp/239.61.2.183:9086$雷蒙影视•IPV4『线路26』
-凤凰资讯,http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?key=txiptv&playlive=1&authid=0$雷蒙影视•IPV4『线路27』
-凤凰资讯,http://www.erbao1981.top:8188/udp/239.76.246.134:1234$雷蒙影视•IPV4『线路28』
-凤凰资讯,http://58.144.154.93:80/qctv.fengshows.cn/live/0701pin72.m3u8$雷蒙影视•IPV4『线路29』
-凤凰资讯,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pin72.m3u8$雷蒙影视•IPV4『线路30』
-凤凰资讯,http://udnhls.skilldns.com:80/fhzx-cn.m3u8$雷蒙影视•IPV4『线路31』
-凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8$雷蒙影视•IPV4『线路32』
-凤凰资讯,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8$雷蒙影视•IPV4『线路33』
-凤凰资讯,http://yujukoo.gicp.net:8888/udp/239.93.0.118:2191$雷蒙影视•IPV4『线路34』
-凤凰资讯,http://www.yao87.com:4022/udp/239.76.246.135:1234$雷蒙影视•IPV4『线路35』
-凤凰资讯,http://117.27.190.42:9998/tsfile/live/23279_1.m3u8$雷蒙影视•IPV4『线路36』
-凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd$雷蒙影视•IPV4『线路37』
-凤凰资讯,http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?$雷蒙影视•IPV4『线路38』
-凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8$雷蒙影视•IPV4『线路39』
-凤凰资讯,http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?key=txiptv$雷蒙影视•IPV4『线路40』
+凤凰资讯,http://www.erbao1981.top:8188/udp/239.76.246.134:1234$雷蒙影视•IPV4『线路27』
+凤凰资讯,http://58.144.154.93:80/qctv.fengshows.cn/live/0701pin72.m3u8$雷蒙影视•IPV4『线路28』
+凤凰资讯,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pin72.m3u8$雷蒙影视•IPV4『线路29』
+凤凰资讯,http://udnhls.skilldns.com:80/fhzx-cn.m3u8$雷蒙影视•IPV4『线路30』
+凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8$雷蒙影视•IPV4『线路31』
+凤凰资讯,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8$雷蒙影视•IPV4『线路32』
+凤凰资讯,http://yujukoo.gicp.net:8888/udp/239.93.0.118:2191$雷蒙影视•IPV4『线路33』
+凤凰资讯,http://www.yao87.com:4022/udp/239.76.246.135:1234$雷蒙影视•IPV4『线路34』
+凤凰资讯,http://117.27.190.42:9998/tsfile/live/23279_1.m3u8$雷蒙影视•IPV4『线路35』
+凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd$雷蒙影视•IPV4『线路36』
+凤凰资讯,http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?$雷蒙影视•IPV4『线路37』
+凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8$雷蒙影视•IPV4『线路38』
+凤凰资讯,http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?key=txiptv$雷蒙影视•IPV4『线路39』
+凤凰资讯,http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?key=txiptv&playlive=1&authid=0$雷蒙影视•IPV4『线路40』
 凤凰资讯,http://171.108.239.80:8181/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0$雷蒙影视•IPV4『线路41』
 凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8$雷蒙影视•IPV4『线路42』
 凤凰资讯,http://171.108.239.79:8181/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0$雷蒙影视•IPV4『线路43』
@@ -194,12 +194,12 @@ CrimeTV LIVE,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3R
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk$雷蒙影视•IPV4『线路3』
 凤凰香港,http://oopswx.serv00.net/fhws.php?id=hk$雷蒙影视•IPV4『线路4』
 凤凰香港,http://oopswx.serv00.net/fhxyh.php?from=web&id=fhhk$雷蒙影视•IPV4『线路5』
-凤凰香港,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5588&tk=2aca1ad9a849$雷蒙影视•IPV4『线路6』
-凤凰香港,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5454&tk=e503191f8e20$雷蒙影视•IPV4『线路7』
-凤凰香港,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4782&tk=97475bb89d45$雷蒙影视•IPV4『线路8』
-凤凰香港,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6428&tk=777be9e2ccb2$雷蒙影视•IPV4『线路9』
-凤凰香港,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3523&tk=7877e7cc41c7$雷蒙影视•IPV4『线路10』
-凤凰香港,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1910&tk=7d4ad8f156e3$雷蒙影视•IPV4『线路11』
+凤凰香港,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5454&tk=e503191f8e20$雷蒙影视•IPV4『线路6』
+凤凰香港,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5588&tk=2aca1ad9a849$雷蒙影视•IPV4『线路7』
+凤凰香港,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3523&tk=7877e7cc41c7$雷蒙影视•IPV4『线路8』
+凤凰香港,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1910&tk=7d4ad8f156e3$雷蒙影视•IPV4『线路9』
+凤凰香港,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4782&tk=97475bb89d45$雷蒙影视•IPV4『线路10』
+凤凰香港,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6428&tk=777be9e2ccb2$雷蒙影视•IPV4『线路11』
 凤凰香港,http://kxrj.site:1333/86/fh.php?id=fhhk$雷蒙影视•IPV4『线路12』
 凤凰香港,http://r.jdshipin.com/yDoTN$雷蒙影视•IPV4『线路13』
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk$雷蒙影视•IPV4『线路14』
@@ -398,10 +398,10 @@ HOY 77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv$雷蒙影视•IPV4『线�
 🇹🇼台湾,#genre#
 中天新闻,http://220.133.220.232:8580/http/220.130.214.23:8088/hls/78/80/ch63max.m3u8$雷蒙影视•IPV4『线路1』
 中天新闻,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8$雷蒙影视•IPV4『线路2』
-中天新闻,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6963&tk=e503191f8e20$雷蒙影视•IPV4『线路3』
-中天新闻,http://cdn.iptv8k.top/dl/jspd.php?id=1$雷蒙影视•IPV4『线路4』
-中天新闻,http://cdn.iptv8k.top/dl/jspd.php?id=1$雷蒙影视•IPV4『线路5』
-中天新闻,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6895&tk=777be9e2ccb2$雷蒙影视•IPV4『线路6』
+中天新闻,http://cdn.iptv8k.top/dl/jspd.php?id=1$雷蒙影视•IPV4『线路3』
+中天新闻,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6895&tk=777be9e2ccb2$雷蒙影视•IPV4『线路4』
+中天新闻,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6963&tk=e503191f8e20$雷蒙影视•IPV4『线路5』
+中天新闻,http://cdn.iptv8k.top/dl/jspd.php?id=1$雷蒙影视•IPV4『线路6』
 中天新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv009$雷蒙影视•IPV4『线路7』
 中天新闻,http://47.239.239.192/4gtv/litv.php?id=4gtv-4gtv009$雷蒙影视•IPV4『线路8』
 中天新闻,p3p://108.181.32.169:25221/675ec8cf000def51a43a021f0e7931f9$雷蒙影视•IPV4『线路9』
@@ -512,16 +512,15 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8$雷蒙影视•IPV4『线路17』
 东森新闻,http://220.133.220.232:8541/http/220.130.214.23:8088/hls/63/805/ch10.m3u8$雷蒙影视•IPV4『线路1』
 东森新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv152$雷蒙影视•IPV4『线路2』
-东森新闻,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8$雷蒙影视•IPV4『线路3』
-东森新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv152$雷蒙影视•IPV4『线路4』
-东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8$雷蒙影视•IPV4『线路5』
-东森新闻,http://211.72.65.236:8540/.m3u8$雷蒙影视•IPV4『线路6』
-东森新闻,p3p://108.181.32.169:25221/64251f9700046520ea5ce8b85b6c11da$雷蒙影视•IPV4『线路7』
-东森新闻,https://stream1.freetv.fun/dong-sen-xin-wen-7.ctv$雷蒙影视•IPV4『线路8』
-东森新闻,https://stream1.freetv.fun/dong-sen-xin-wen-5.ctv$雷蒙影视•IPV4『线路9』
-东森新闻,https://stream1.freetv.fun/dong-sen-xin-wen-6.ctv$雷蒙影视•IPV4『线路10』
-东森新闻,https://stream1.freetv.fun/dong-sen-xin-wen-2.m3u8$雷蒙影视•IPV4『线路11』
-东森新闻,https://stream1.freetv.fun/dong-sen-xin-wen-3.ctv$雷蒙影视•IPV4『线路12』
+东森新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv152$雷蒙影视•IPV4『线路3』
+东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8$雷蒙影视•IPV4『线路4』
+东森新闻,http://211.72.65.236:8540/.m3u8$雷蒙影视•IPV4『线路5』
+东森新闻,p3p://108.181.32.169:25221/64251f9700046520ea5ce8b85b6c11da$雷蒙影视•IPV4『线路6』
+东森新闻,https://stream1.freetv.fun/dong-sen-xin-wen-7.ctv$雷蒙影视•IPV4『线路7』
+东森新闻,https://stream1.freetv.fun/dong-sen-xin-wen-5.ctv$雷蒙影视•IPV4『线路8』
+东森新闻,https://stream1.freetv.fun/dong-sen-xin-wen-6.ctv$雷蒙影视•IPV4『线路9』
+东森新闻,https://stream1.freetv.fun/dong-sen-xin-wen-2.m3u8$雷蒙影视•IPV4『线路10』
+东森新闻,https://stream1.freetv.fun/dong-sen-xin-wen-3.ctv$雷蒙影视•IPV4『线路11』
 东森综合,p3p://108.181.32.169:25221/64253f6e0002d287ead9482831323a6d$雷蒙影视•IPV4『线路1』
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40$雷蒙影视•IPV4『线路2』
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40$雷蒙影视•IPV4『线路3』
@@ -530,8 +529,8 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8$雷蒙影视�
 东森综合,p3p://173.208.176.178:31809/5fe8c5570001412994347b4506da6ebb$雷蒙影视•IPV4『线路6』
 东森综合,http://211.72.65.236:8524/.m3u8$雷蒙影视•IPV4『线路7』
 东森综合,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8524/.m3u8$雷蒙影视•IPV4『线路8』
-东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40$雷蒙影视•IPV4『线路1』
-东森超视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3271&tk=777be9e2ccb2$雷蒙影视•IPV4『线路2』
+东森超视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3271&tk=777be9e2ccb2$雷蒙影视•IPV4『线路1』
+东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40$雷蒙影视•IPV4『线路2』
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40$雷蒙影视•IPV4『线路3』
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40$雷蒙影视•IPV4『线路4』
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40$雷蒙影视•IPV4『线路5』
@@ -574,8 +573,8 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8$雷蒙影视�
 民视,http://litv.zapi.us.kg/?id=4gtv-4gtv155$雷蒙影视•IPV4『线路3』
 民视,rtmp://f13h.mine.nu/sat/tv051$雷蒙影视•IPV4『线路4』
 民视,http://fm1077.serv00.net/Smart.php?id=ftvhd_taiwan$雷蒙影视•IPV4『线路5』
-民视,http://37.27.111.214:8080/live/6/hls.m3u8$雷蒙影视•IPV4『线路6』
-民视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5037&tk=777be9e2ccb2$雷蒙影视•IPV4『线路7』
+民视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5037&tk=777be9e2ccb2$雷蒙影视•IPV4『线路6』
+民视,http://37.27.111.214:8080/live/6/hls.m3u8$雷蒙影视•IPV4『线路7』
 民视,https://litv.zapi.us.kg/?id=4gtv-4gtv002$雷蒙影视•IPV4『线路8』
 民视,https://litv.zapi.us.kg/?id=4gtv-4gtv155$雷蒙影视•IPV4『线路9』
 民视,rtmp://220.130.201.73/sat/tv051$雷蒙影视•IPV4『线路10』
@@ -620,13 +619,12 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8$雷蒙影视�
 三立台湾,p3p://108.181.32.169:25221/64251e5e0003388bea5821c268061bfb$雷蒙影视•IPV4『线路2』
 三立台湾,https://stream1.freetv.fun/san-li-tai-wan-5.m3u8$雷蒙影视•IPV4『线路3』
 三立新闻,http://220.133.220.232:8544/http/220.130.214.23:8088/hls/65/807/ch18.m3u8$雷蒙影视•IPV4『线路1』
-三立新闻,http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8$雷蒙影视•IPV4『线路2』
-三立新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8$雷蒙影视•IPV4『线路3』
-三立新闻,p3p://108.181.32.169:25221/64251e23000bcd04ea573d7c0f0a002e$雷蒙影视•IPV4『线路4』
-三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8$雷蒙影视•IPV4『线路5』
-三立新闻,https://stream1.freetv.fun/san-li-xin-wen-4.m3u8$雷蒙影视•IPV4『线路6』
-三立新闻,https://stream1.freetv.fun/san-li-xin-wen-3.m3u8$雷蒙影视•IPV4『线路7』
-三立新闻,https://stream1.freetv.fun/san-li-xin-wen-5.ctv$雷蒙影视•IPV4『线路8』
+三立新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8$雷蒙影视•IPV4『线路2』
+三立新闻,p3p://108.181.32.169:25221/64251e23000bcd04ea573d7c0f0a002e$雷蒙影视•IPV4『线路3』
+三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8$雷蒙影视•IPV4『线路4』
+三立新闻,https://stream1.freetv.fun/san-li-xin-wen-4.m3u8$雷蒙影视•IPV4『线路5』
+三立新闻,https://stream1.freetv.fun/san-li-xin-wen-3.m3u8$雷蒙影视•IPV4『线路6』
+三立新闻,https://stream1.freetv.fun/san-li-xin-wen-5.ctv$雷蒙影视•IPV4『线路7』
 三立都会,p3p://108.181.32.169:25221/64251e7300064780ea587492773a63cc$雷蒙影视•IPV4『线路1』
 三立都会,http://50.7.234.10:8278/sanlidouhui_twn/playlist.m3u8?tid=md028b33ea0f7&ct=19361&tsum=1930e4b2cfbbd2f9f821af1c41e8d18d$雷蒙影视•IPV4『线路2』
 三立都会,http://ku9.fr.to/smt.php?id=sanlidouhui$雷蒙影视•IPV4『线路3』
@@ -640,15 +638,15 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8$雷蒙影视�
 三立综合,https://aktv.top/AKTV/live/aktv/null13/AKTV.m3u8$雷蒙影视•IPV4『线路3』
 无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn$雷蒙影视•IPV4『线路1』
 无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw$雷蒙影视•IPV4『线路2』
-无线新闻,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1322&tk=e503191f8e20$雷蒙影视•IPV4『线路3』
+无线新闻,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2845&tk=e503191f8e20$雷蒙影视•IPV4『线路3』
 无线新闻,http://cdn.iptv8k.top/dl/jspd.php?id=2$雷蒙影视•IPV4『线路4』
-无线新闻,http://cdn.iptv8k.top/dl/jspd.php?id=2$雷蒙影视•IPV4『线路5』
-无线新闻,http://aktv.top/AKTV/live/aktv2/null1/AKTV.m3u8$雷蒙影视•IPV4『线路6』
-无线新闻,http://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8$雷蒙影视•IPV4『线路7』
-无线新闻,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2845&tk=e503191f8e20$雷蒙影视•IPV4『线路8』
-无线新闻,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6560&tk=777be9e2ccb2$雷蒙影视•IPV4『线路9』
-无线新闻,https://cdn.iptv8k.top/dl/jspd.php?id=2&time=20240926215313&ip=111.229.253.40$雷蒙影视•IPV4『线路10』
-无线新闻,https://cdn.iptv8k.top/dl/jspd.php?id=2&time=20240926215313&ip=111.229.253.40$雷蒙影视•IPV4『线路11』
+无线新闻,https://cdn.iptv8k.top/dl/jspd.php?id=2&time=20240926215313&ip=111.229.253.40$雷蒙影视•IPV4『线路5』
+无线新闻,http://cdn.iptv8k.top/dl/jspd.php?id=2$雷蒙影视•IPV4『线路6』
+无线新闻,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1322&tk=e503191f8e20$雷蒙影视•IPV4『线路7』
+无线新闻,https://cdn.iptv8k.top/dl/jspd.php?id=2&time=20240926215313&ip=111.229.253.40$雷蒙影视•IPV4『线路8』
+无线新闻,http://aktv.top/AKTV/live/aktv2/null1/AKTV.m3u8$雷蒙影视•IPV4『线路9』
+无线新闻,http://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8$雷蒙影视•IPV4『线路10』
+无线新闻,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6560&tk=777be9e2ccb2$雷蒙影视•IPV4『线路11』
 无线新闻,http://grandprix2023.asuscomm.com:8892/bysid/83.m3u8$雷蒙影视•IPV4『线路12』
 无线新闻,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8$雷蒙影视•IPV4『线路13』
 纬来综合,http://211.72.65.236:8518/.m3u8$雷蒙影视•IPV4『线路1』
@@ -735,39 +733,39 @@ YOYO TV,https://ythls.armelin.one/channel/UCiWRSesvSYmY7YOyz0tv_zQ.m3u8$雷蒙�
 CHC动作电影,http://221.196.34.247:4022/udp/225.1.1.215:5002$雷蒙影视•IPV4『线路1』
 CHC动作电影,http://e2.woc.iiiya.cn:8888/rtp/239.61.3.16:9616$雷蒙影视•IPV4『线路2』
 CHC动作电影,http:///udp/239.76.245.243:1234$雷蒙影视•IPV4『线路3』
-CHC动作电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1142&tk=7877e7cc41c7$雷蒙影视•IPV4『线路4』
-CHC动作电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6350&tk=7877e7cc41c7$雷蒙影视•IPV4『线路5』
-CHC动作电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2849&tk=777be9e2ccb2$雷蒙影视•IPV4『线路6』
-CHC动作电影,http://58.19.38.162:9901/tsfile/live/0119_1.m3u8$雷蒙影视•IPV4『线路7』
-CHC动作电影,http://58.19.38.162:9901/tsfile/live/1004_1.m3u8$雷蒙影视•IPV4『线路8』
-CHC动作电影,http://58.19.38.162:9901/tsfile/live/1005_1.m3u8$雷蒙影视•IPV4『线路9』
-CHC动作电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1148&tk=97475bb89d45$雷蒙影视•IPV4『线路10』
-CHC动作电影,http://182.40.120.191/test-txdwk.flv.huya.com/src/1524439840-1524439840-6547419257519472640-3049003136-10057-A-0-1.m3u8$雷蒙影视•IPV4『线路11』
-CHC动作电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5702&tk=777be9e2ccb2$雷蒙影视•IPV4『线路12』
-CHC动作电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4550&tk=e503191f8e20$雷蒙影视•IPV4『线路13』
-CHC动作电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2500&tk=7d4ad8f156e3$雷蒙影视•IPV4『线路14』
-CHC动作电影,http://qjrhc.jydjd.top:2911/udp/224.1.100.149:11111$雷蒙影视•IPV4『线路15』
-CHC动作电影,http://qjrhc.jydjd.top:2911/udp/224.1.100.132:11111$雷蒙影视•IPV4『线路16』
-CHC动作电影,http://58.19.38.162:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0$雷蒙影视•IPV4『线路17』
-CHC动作电影,http://qjrhc.jydjd.top:2911/udp/224.1.100.131:11111$雷蒙影视•IPV4『线路18』
+CHC动作电影,http://58.19.38.162:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0$雷蒙影视•IPV4『线路4』
+CHC动作电影,http://58.19.38.162:9901/tsfile/live/1005_1.m3u8$雷蒙影视•IPV4『线路5』
+CHC动作电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6191&tk=e503191f8e20$雷蒙影视•IPV4『线路6』
+CHC动作电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1268&tk=b53028476470$雷蒙影视•IPV4『线路7』
+CHC动作电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4550&tk=e503191f8e20$雷蒙影视•IPV4『线路8』
+CHC动作电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2500&tk=7d4ad8f156e3$雷蒙影视•IPV4『线路9』
+CHC动作电影,http://hzzzz530.com:4022/udp/239.69.1.242:11094$雷蒙影视•IPV4『线路10』
+CHC动作电影,http://qjrhc.jydjd.top:2911/udp/224.1.100.132:11111$雷蒙影视•IPV4『线路11』
+CHC动作电影,http://qjrhc.jydjd.top:2911/udp/224.1.100.131:11111$雷蒙影视•IPV4『线路12』
+CHC动作电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1088&tk=2894ccdba8fc$雷蒙影视•IPV4『线路13』
+CHC动作电影,http://182.40.120.191/test-txdwk.flv.huya.com/src/1524439840-1524439840-6547419257519472640-3049003136-10057-A-0-1.m3u8$雷蒙影视•IPV4『线路14』
+CHC动作电影,http://goo.bkpcp.top/mg/chcdz$雷蒙影视•IPV4『线路15』
+CHC动作电影,http://119.32.12.32:2901/udp/224.1.100.131:11111$雷蒙影视•IPV4『线路16』
+CHC动作电影,http://58.19.38.162:9901/tsfile/live/1004_1.m3u8$雷蒙影视•IPV4『线路17』
+CHC动作电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1148&tk=97475bb89d45$雷蒙影视•IPV4『线路18』
 CHC动作电影,https://gdcucc.v1.mk/gdcucc/chcdzdy.m3u8$雷蒙影视•IPV4『线路19』
 CHC动作电影,http://58.19.38.162:9901/tsfile/live/1006_1.m3u8$雷蒙影视•IPV4『线路20』
-CHC动作电影,https://www.freetv.top/migu/644368714.m3u8?migutoken=fb9ef80443f06c3612ddd35545ec1054b5bcab3941fc46ecf84808bdd512d7b2cf16d34fdf955bff71bf01f818f6918ba2d7f536dc5451d1519d15cf8a5671bf16ea8a3bbc71db4477476e211d$雷蒙影视•IPV4『线路21』
-CHC动作电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0848&tk=2aca1ad9a849$雷蒙影视•IPV4『线路22』
-CHC动作电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1088&tk=2894ccdba8fc$雷蒙影视•IPV4『线路23』
-CHC动作电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6191&tk=e503191f8e20$雷蒙影视•IPV4『线路24』
-CHC动作电影,http://hzzzz530.com:4022/udp/239.69.1.242:11094$雷蒙影视•IPV4『线路25』
-CHC动作电影,http://119.32.12.32:2901/udp/224.1.100.131:11111$雷蒙影视•IPV4『线路26』
+CHC动作电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0848&tk=2aca1ad9a849$雷蒙影视•IPV4『线路21』
+CHC动作电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2849&tk=777be9e2ccb2$雷蒙影视•IPV4『线路22』
+CHC动作电影,https://www.freetv.top/migu/644368714.m3u8?migutoken=fb9ef80443f06c3612ddd35545ec1054b5bcab3941fc46ecf84808bdd512d7b2cf16d34fdf955bff71bf01f818f6918ba2d7f536dc5451d1519d15cf8a5671bf16ea8a3bbc71db4477476e211d$雷蒙影视•IPV4『线路23』
+CHC动作电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1142&tk=7877e7cc41c7$雷蒙影视•IPV4『线路24』
+CHC动作电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5702&tk=777be9e2ccb2$雷蒙影视•IPV4『线路25』
+CHC动作电影,http://58.19.38.162:9901/tsfile/live/0119_1.m3u8$雷蒙影视•IPV4『线路26』
 CHC动作电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3804&tk=2aca1ad9a849$雷蒙影视•IPV4『线路27』
-CHC动作电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1268&tk=b53028476470$雷蒙影视•IPV4『线路28』
-CHC动作电影,http://60.255.240.247:8090/live/wqCHCdzdyH265_4000.m3u8$雷蒙影视•IPV4『线路29』
-CHC动作电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcdzdy$雷蒙影视•IPV4『线路30』
-CHC动作电影,http://27.17.111.252:8118/udp/239.69.1.242:11094$雷蒙影视•IPV4『线路31』
-CHC动作电影,http://fxgm.fxjf.work:19901/tsfile/live/1015_1.m3u8$雷蒙影视•IPV4『线路32』
-CHC动作电影,http://149.88.85.102:1354/cqyx.php?id=chcdz$雷蒙影视•IPV4『线路33』
-CHC动作电影,http://110.53.52.63:8888/newlive/live/hls/53/live.m3u8$雷蒙影视•IPV4『线路34』
-CHC动作电影,https://ali.hlspull.yximgs.com/live/diyp_chcdongzuo.flv$雷蒙影视•IPV4『线路35』
-CHC动作电影,http://goo.bkpcp.top/mg/chcdz$雷蒙影视•IPV4『线路36』
+CHC动作电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6350&tk=7877e7cc41c7$雷蒙影视•IPV4『线路28』
+CHC动作电影,http://qjrhc.jydjd.top:2911/udp/224.1.100.149:11111$雷蒙影视•IPV4『线路29』
+CHC动作电影,http://60.255.240.247:8090/live/wqCHCdzdyH265_4000.m3u8$雷蒙影视•IPV4『线路30』
+CHC动作电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcdzdy$雷蒙影视•IPV4『线路31』
+CHC动作电影,http://27.17.111.252:8118/udp/239.69.1.242:11094$雷蒙影视•IPV4『线路32』
+CHC动作电影,http://fxgm.fxjf.work:19901/tsfile/live/1015_1.m3u8$雷蒙影视•IPV4『线路33』
+CHC动作电影,http://149.88.85.102:1354/cqyx.php?id=chcdz$雷蒙影视•IPV4『线路34』
+CHC动作电影,http://110.53.52.63:8888/newlive/live/hls/53/live.m3u8$雷蒙影视•IPV4『线路35』
+CHC动作电影,https://ali.hlspull.yximgs.com/live/diyp_chcdongzuo.flv$雷蒙影视•IPV4『线路36』
 CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz$雷蒙影视•IPV4『线路37』
 CHC动作电影,http://nas.hssvm.com:8888/udp/225.1.1.215:5002$雷蒙影视•IPV4『线路38』
 CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-12.ctv$雷蒙影视•IPV4『线路39』
@@ -807,10 +805,10 @@ CHC动作电影,https://stream1.freetv.fun/413df533cc2d866bacdc87729814e66f4cf83
 CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-30.m3u8$雷蒙影视•IPV4『线路73』
 CHC动作电影,https://stream.freetv.fun/2f2e29b8759a2458730dc1f3686024472691952a50e787fe075944d0cb17f36e.ctv$雷蒙影视•IPV4『线路74』
 CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-8.ctv$雷蒙影视•IPV4『线路75』
-CHC动作电影,http://123.189.36.39:9901/tsfile/live/1101_1.m3u8?key=txiptv&playlive=1&authid=0$雷蒙影视•IPV4『线路76』
-CHC动作电影,http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8$雷蒙影视•IPV4『线路77』
-CHC动作电影,http://115.153.254.81/PLTV/88888888/224/3221226992/86128817.smil/index.m3u8?fmt=ts2hls$雷蒙影视•IPV4『线路78』
-CHC动作电影,https://pi.0472.org/chc/dz.m3u8$雷蒙影视•IPV4『线路79』
+CHC动作电影,http://180.213.174.225:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0$雷蒙影视•IPV4『线路76』
+CHC动作电影,http://123.189.36.39:9901/tsfile/live/1101_1.m3u8?key=txiptv&playlive=1&authid=0$雷蒙影视•IPV4『线路77』
+CHC动作电影,http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8$雷蒙影视•IPV4『线路78』
+CHC动作电影,http://115.153.254.81/PLTV/88888888/224/3221226992/86128817.smil/index.m3u8?fmt=ts2hls$雷蒙影视•IPV4『线路79』
 CHC动作电影,http://[2001:250:5800:1005::155]:80/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/index.m3u8$雷蒙影视•IPV6『线路80』
 CHC动作电影,http://[2409:8087:1a01:df::4021]:80/TVOD/88888888/224/3221225555/main.m3u8$雷蒙影视•IPV6『线路81』
 CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?m3u8_level=2$雷蒙影视•IPV6『线路82』
@@ -824,11 +822,11 @@ CHC高清电影,http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8$雷
 CHC高清电影,http://223.151.51.27:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0$雷蒙影视•IPV4『线路8』
 CHC家庭影院,http://221.196.34.247:4022/udp/225.1.1.213:5002$雷蒙影视•IPV4『线路1』
 CHC家庭影院,http:///udp/239.76.245.241:1234$雷蒙影视•IPV4『线路2』
-CHC家庭影院,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2833&tk=777be9e2ccb2$雷蒙影视•IPV4『线路3』
-CHC家庭影院,http://hzzzz530.com:4022/udp/239.69.1.243:11100$雷蒙影视•IPV4『线路4』
-CHC家庭影院,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0646&tk=777be9e2ccb2$雷蒙影视•IPV4『线路5』
-CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8?migutoken=893aa32f9d861d92c0661b8125e5b12471106642e4d0f341956e45e2f60dbb2179c3b5b6f05c2e8242e24d254815578255456ce991c2d337b226ce49c025efe16f2d4715157e642b7447f0bf06$雷蒙影视•IPV4『线路6』
-CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0$雷蒙影视•IPV4『线路7』
+CHC家庭影院,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0646&tk=777be9e2ccb2$雷蒙影视•IPV4『线路3』
+CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0$雷蒙影视•IPV4『线路4』
+CHC家庭影院,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2833&tk=777be9e2ccb2$雷蒙影视•IPV4『线路5』
+CHC家庭影院,http://hzzzz530.com:4022/udp/239.69.1.243:11100$雷蒙影视•IPV4『线路6』
+CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8?migutoken=893aa32f9d861d92c0661b8125e5b12471106642e4d0f341956e45e2f60dbb2179c3b5b6f05c2e8242e24d254815578255456ce991c2d337b226ce49c025efe16f2d4715157e642b7447f0bf06$雷蒙影视•IPV4『线路7』
 CHC家庭影院,https://gdcucc.v1.mk/gdcucc/chcjtyy.m3u8$雷蒙影视•IPV4『线路8』
 CHC家庭影院,http://60.255.240.247:8090/live/jbtygqCHCjtyyH265_4000.m3u8$雷蒙影视•IPV4『线路9』
 CHC家庭影院,http://php.jdshipin.com/TVOD/iptv.php?id=chcjtyy$雷蒙影视•IPV4『线路10』
@@ -866,28 +864,25 @@ CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-14.ctv$雷蒙�
 CHC家庭影院,https://stream1.freetv.fun/ipv6-chcjia-ting-ying-yuan-18.m3u8$雷蒙影视•IPV4『线路42』
 CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-6.m3u8$雷蒙影视•IPV4『线路43』
 CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-12.ctv$雷蒙影视•IPV4『线路44』
-CHC家庭影院,http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8$雷蒙影视•IPV4『线路45』
-CHC家庭影院,http://115.153.254.81/PLTV/88888888/224/3221226959/86128800.smil/index.m3u8?fmt=ts2hls$雷蒙影视•IPV4『线路46』
-CHC家庭影院,https://pi.0472.org/chc/jt.m3u8$雷蒙影视•IPV4『线路47』
+CHC家庭影院,http://180.213.174.225:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0$雷蒙影视•IPV4『线路45』
+CHC家庭影院,http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8$雷蒙影视•IPV4『线路46』
+CHC家庭影院,http://115.153.254.81/PLTV/88888888/224/3221226959/86128800.smil/index.m3u8?fmt=ts2hls$雷蒙影视•IPV4『线路47』
 CHC家庭影院,http://[2001:250:5800:1005::155]:80/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8$雷蒙影视•IPV6『线路48』
 CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2$雷蒙影视•IPV6『线路49』
-黑莓电影,http://home.dzlove.top:35455/itv/1000000004000019624.m3u8?cdn=ystenlive$雷蒙影视•IPV4『线路1』
-黑莓电影,http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=84$雷蒙影视•IPV4『线路2』
-黑莓电影,http://183.255.10.70:6610/200000001898/460000089800010073/1.m3u8?IASHttpSessionId=ACE$雷蒙影视•IPV4『线路3』
+黑莓电影,http://106.53.99.30/公众号【榴芒电视】/proxy/bjyd.php?id=84$雷蒙影视•IPV4『线路1』
+黑莓电影,http://183.255.10.70:6610/200000001898/460000089800010073/1.m3u8?IASHttpSessionId=ACE$雷蒙影视•IPV4『线路2』
+黑莓电影,http://home.dzlove.top:35455/itv/1000000004000019624.m3u8?cdn=ystenlive$雷蒙影视•IPV4『线路3』
 黑莓电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1164&tk=b53028476470$雷蒙影视•IPV4『线路4』
 黑莓电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0850&tk=b53028476470$雷蒙影视•IPV4『线路5』
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$雷蒙影视•IPV4『线路6』
 黑莓电影,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225743/1.m3u8$雷蒙影视•IPV4『线路7』
 黑莓电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226939/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkBVQL3MtyiM0GGQzuPjqAQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$雷蒙影视•IPV4『线路8』
 黑莓电影,http://itv.nctv.top:35455/itv/1000000004000019624.m3u8?cdn=ystenlive$雷蒙影视•IPV4『线路9』
-黑莓电影,http://www.terrykang.xyz:35455/itv/1000000004000019624.m3u8?cdn=ystenlive$雷蒙影视•IPV4『线路10』
-黑莓电影,http://[2409:8087:74d9:21::6]:80/270000001128/9900000095/index.m3u8$雷蒙影视•IPV6『线路11』
-黑莓电影,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225764/2/index.m3u8$雷蒙影视•IPV6『线路12』
-黑莓电影,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225769/2/index.m3u8$雷蒙影视•IPV6『线路13』
-黑莓电影,http://[2409:8087:1a01:df::4001]:80/TVOD/88888888/224/3221225681/main.m3u8$雷蒙影视•IPV6『线路14』
-黑莓电影,http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$雷蒙影视•IPV6『线路15』
-黑莓电影,http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225743/index.m3u8$雷蒙影视•IPV6『线路16』
-黑莓电影,http://[2409:8087:2001:20:2800:0:df6e:eb08]/ott.mobaibox.com/PLTV/3/224/3221227520/index.m3u8$雷蒙影视•IPV6『线路17』
+黑莓电影,http://[2409:8087:74d9:21::6]:80/270000001128/9900000095/index.m3u8$雷蒙影视•IPV6『线路10』
+黑莓电影,http://[2409:8087:1a01:df::4001]:80/TVOD/88888888/224/3221225681/main.m3u8$雷蒙影视•IPV6『线路11』
+黑莓电影,http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$雷蒙影视•IPV6『线路12』
+黑莓电影,http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225743/index.m3u8$雷蒙影视•IPV6『线路13』
+黑莓电影,http://[2409:8087:2001:20:2800:0:df6e:eb08]/ott.mobaibox.com/PLTV/3/224/3221227520/index.m3u8$雷蒙影视•IPV6『线路14』
 靖天映画,http://litv.zapi.us.kg/?id=4gtv-4gtv055$雷蒙影视•IPV4『线路1』
 靖天映画,https://litv.zapi.us.kg/?id=4gtv-4gtv055$雷蒙影视•IPV4『线路2』
 靖天映画,p3p://173.208.176.178:31809/6258eae500040fd80e4f0b2311754279$雷蒙影视•IPV4『线路3』
